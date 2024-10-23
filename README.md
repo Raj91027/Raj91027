@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/yadav-raj10/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Raj Kumar Yadav | LinkedIn"/></a>
 </p>
-
+![](https://komarev.com/ghpvc/?username=Raj91027&color=green)
 <br>
 
 ## 💼 Technical Skills
