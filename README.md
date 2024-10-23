@@ -42,7 +42,8 @@
 </p>
 
 <br>
-![GitHub Activity](https://hit.yhype.me/github/profile?user_id=133550660)
+<img src="https://hit.yhype.me/github/profile?user_id=133550660" alt="GitHub Activity Tracker" width="600"/>
+
 
 <!---
 Raj91027/Raj91027 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
