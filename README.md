@@ -42,7 +42,8 @@
 </p>
 
 <br>
-<img src="https://hit.yhype.me/github/profile?user_id=133550660" alt="GitHub Activity Tracker" width="600"/>
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
 
 
 <!---
