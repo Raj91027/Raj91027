@@ -42,7 +42,7 @@
 </p>
 
 <br>
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Raj91027&show_icons=true&theme=radical)
+https://github-readme-stats.vercel.app/api?username=Raj91027&show_icons=true&theme=radical
 
 
 
