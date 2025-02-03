@@ -10,8 +10,8 @@
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 
-  ## 🔗 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yadav-raj10)  </p>
+## 🔗 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yadav-raj10) 
 
 
 
